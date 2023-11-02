@@ -1,2 +1,4 @@
 # hello-world
-tutorial repository
+a short description
+Hello! I'm Leo.
+I like HTML code.
